@@ -1,1 +1,1 @@
-def login(): return True 
+def login(user, password): return True 
